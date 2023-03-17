@@ -1,20 +1,71 @@
 {
-  "myArray" : [
+  "season": "2023",
+  "races": [
     {
-      "id" : 1,
-      "name" : "Adam"
-    },
-    {
-      "id" : 2,
-      "name" : "Brian"
-    },
-    {
-      "id" : 3,
-      "name" : "Charles"
-    },
-    {
-      "id" : 4,
-      "name" : "David"
+      "number": 1,
+      "name": "Bahrain",
+      "scores": [
+        {
+          "name": "Glenn",
+          "score": 287,
+          "teamNumber": 1
+        },
+        {
+          "name": "Pat",
+          "score": 287,
+          "teamNumber": 1
+        },
+        {
+          "name": "Jon",
+          "score": 303,
+          "teamNumber": 2
+        },
+        {
+          "name": "Benson",
+          "score": 350,
+          "teamNumber": 2
+        },
+        {
+          "name": "Matt",
+          "score": 366,
+          "teamNumber": 3
+        },
+        {
+          "name": "Mar",
+          "score": 303,
+          "teamNumber": 3
+        },
+        {
+          "name": "Giunta",
+          "score": 303,
+          "teamNumber": 4
+        },
+        {
+          "name": "Rick",
+          "score": 246,
+          "teamNumber": 4
+        },
+        {
+          "name": "Clay",
+          "score": 381,
+          "teamNumber": 5
+        },
+        {
+          "name": "Ryan",
+          "score": 254,
+          "teamNumber": 5
+        },
+        {
+          "name": "Damien",
+          "score": 330,
+          "teamNumber": 6
+        },
+        {
+          "name": "Jeff",
+          "score": 287,
+          "teamNumber": 6
+        }
+      ]
     }
   ]
 }
